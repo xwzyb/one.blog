@@ -2,9 +2,9 @@
 title: One Blog
 SEOTitle: 的博客 | One Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "待定"
-keyword: "待定, 待定"
+email: briannzhangxb@gmail.com
+description: "一只测试工程狮"
+keyword: "图像，文本，深度学习"
 url: "待定" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
+weibo_username: brian
+zhihu_username: brian
+github_username: brian
 twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: brian
 
 # Netease settings
 netease_comment: false
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "乱序（Midare）", href: "http://mida.re/" }
   ]
