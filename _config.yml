@@ -1,7 +1,7 @@
 # Site settings
 title: One Blog
 SEOTitle: 的博客 | One Blog
-header-img: img/home-bg.jpg
+header-img: img/bg.jpeg
 email: briannzhangxb@gmail.com
 description: "一只测试工程狮"
 keyword: "图像，文本，深度学习"
@@ -16,7 +16,7 @@ RSS: false
 weibo_username: brian
 zhihu_username: brian
 github_username: brian
-twitter_username: huxpro
+twitter_username: brian
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" }
+    { title: "XX", href: "XX" }
   ]
